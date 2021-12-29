@@ -53,4 +53,4 @@ for v in lista3:
 
 lista4 = ['luiz', 'João', 'Maria']
 n1, n2, n3 = lista4
-print(n2)  # João por desempacotamento.
+print(n2)  # João por desempacotamento
