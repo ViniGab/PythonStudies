@@ -1,4 +1,4 @@
-# Criado para trabalhar em mapeamento.py e filter.py
+# Criado para trabalhar em mapeamento.py, filter.py e reduce.py
 
 produtos = [
     {'nome': 'p1', 'preco': 13},
