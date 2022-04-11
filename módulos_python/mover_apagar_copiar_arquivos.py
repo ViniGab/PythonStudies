@@ -19,7 +19,7 @@ caminho_novo = r'C:\Users\HP\Documents\rpgmaker2'
 try:
     os.mkdir(caminho_novo)
 except FileExistsError as e:
-    print(f'Pasta {caminho_novo} já existe.')
+    print(f'Pasta {caminho_novo} já existente.')
 
 for root, dirs, files in os.walk(caminho_original):
     for file in files:
